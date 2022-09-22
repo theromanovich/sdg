@@ -1,0 +1,16 @@
+body{
+    background: url(img/1576033516_1-1.png)
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Snell Roundhand, cursive ;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: Snell Roundhand, cursive;
+}
+div {
+    justify-content: center;
+}
